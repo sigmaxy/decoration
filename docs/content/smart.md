@@ -10,6 +10,8 @@
 
 # 智能電視
 
+https://user-images.githubusercontent.com/4843869/155229150-0dd4ace0-66a6-43ba-beb9-1bc4b2b5a3ed.mp4
+
 # 智能開關
 
 # 智能吊燈

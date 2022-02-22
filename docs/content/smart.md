@@ -18,9 +18,25 @@ https://user-images.githubusercontent.com/4843869/155229150-0dd4ace0-66a6-43ba-b
 
 # 智能晾衣架
 
+
+https://user-images.githubusercontent.com/4843869/155229777-62e5476b-83c1-4541-82a1-d1447313f326.mp4
+
+
+https://user-images.githubusercontent.com/4843869/155229816-7a204033-2976-4cdf-8d75-8a8050327fea.mp4
+
+
+
 # 智能窗簾
 
+
+https://user-images.githubusercontent.com/4843869/155230011-dad9f034-d75b-420c-a7ac-baef7904a463.mp4
+
+
 # 智能門窗感應
+
+
+https://user-images.githubusercontent.com/4843869/155229544-827a972b-a135-42cd-a0f4-214ac706d2ea.mp4
+
 
 # 人體感應
 

@@ -38,21 +38,21 @@ https://user-images.githubusercontent.com/4843869/155229150-0dd4ace0-66a6-43ba-b
 
 # 智能吊燈
 
+https://user-images.githubusercontent.com/4843869/155232499-6d63feb1-40f1-4774-87e7-de894cca950a.mp4
+
+https://user-images.githubusercontent.com/4843869/155232538-a4248fa9-ca7b-4927-a6ac-8cfe2878485a.mp4
+
 > [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
 
 # 智能晾衣架
 
-
 https://user-images.githubusercontent.com/4843869/155229777-62e5476b-83c1-4541-82a1-d1447313f326.mp4
-
 
 https://user-images.githubusercontent.com/4843869/155229816-7a204033-2976-4cdf-8d75-8a8050327fea.mp4
 
 > [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
 
-
 # 智能窗簾
-
 
 https://user-images.githubusercontent.com/4843869/155230011-dad9f034-d75b-420c-a7ac-baef7904a463.mp4
 
@@ -60,9 +60,7 @@ https://user-images.githubusercontent.com/4843869/155230011-dad9f034-d75b-420c-a
 
 # 智能門窗感應
 
-
 https://user-images.githubusercontent.com/4843869/155229544-827a972b-a135-42cd-a0f4-214ac706d2ea.mp4
-
 
 # 人體感應
 

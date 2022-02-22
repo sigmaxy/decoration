@@ -8,13 +8,37 @@
 
 # 智能門鎖
 
+我見到街坊有團購智能門鎖，都需要3800到5千幾唔等，可以網上自己購買，我來幫街坊免費安裝，以小米只能鎖為例，我買呢款有攝像頭，有password，有NFC，攝像頭電池同門鎖電池分開，有人臉標識。原價2199，天貓年貨節1999.
+
+![](../images/smart/1-1.png)
+
+![](../images/smart/1-2.png)
+
+![](../images/smart/1-3.png)
+
+![](../images/smart/1-4.png)
+
+![](../images/smart/1-5.png)
+
+![](../images/smart/1-6.png)
+
+> [購買link](https://www.mi.com/buy/detail?product_id=14467&cfrom=search)
+
 # 智能電視
 
+電視差價最大，我呢款小米65吋OLED，8499，同樣以Samsung A65，豐澤2萬3，淘寶8千9，運費400幾。如果怕壞怕麻煩，建議豐澤，如果想慳錢，淘寶
+
 https://user-images.githubusercontent.com/4843869/155229150-0dd4ace0-66a6-43ba-beb9-1bc4b2b5a3ed.mp4
+
+我呢款小米65吋，有兩款，60Hz，六千幾，120Hz先8千幾
+
+> [購買link](https://www.mi.com/buy/detail?product_id=14779)
 
 # 智能開關
 
 # 智能吊燈
+
+> [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
 
 # 智能晾衣架
 
@@ -24,6 +48,7 @@ https://user-images.githubusercontent.com/4843869/155229777-62e5476b-83c1-4541-8
 
 https://user-images.githubusercontent.com/4843869/155229816-7a204033-2976-4cdf-8d75-8a8050327fea.mp4
 
+> [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
 
 
 # 智能窗簾
@@ -31,6 +56,7 @@ https://user-images.githubusercontent.com/4843869/155229816-7a204033-2976-4cdf-8
 
 https://user-images.githubusercontent.com/4843869/155230011-dad9f034-d75b-420c-a7ac-baef7904a463.mp4
 
+> [購買link](https://item.jd.com/100014743067.html)
 
 # 智能門窗感應
 

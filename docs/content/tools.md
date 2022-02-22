@@ -1,0 +1,127 @@
+# Mac 客户端设定
+
+# 1.電鑽
+
+推薦小米，顏值高，女仔都可以使用，價錢平，可以當電鑽螺絲批
+
+![](../images/tools/1.png)
+
+> [購買link](https://item.jd.com/100020811286.html)
+
+# 2.激光測距儀
+
+推薦小米，有照片測量，方便度尺，傢私窗簾燈
+
+![](../images/tools/2.png)
+
+![](../images/tools/2-1.png)
+
+> [購買link](https://item.jd.com/100015846331.html)
+
+# 3.補墻膏
+
+方便自己執修，Marini執修太慢，自己20分鐘可以搞掂，佢d可能要1個星期
+
+![](../images/tools/3.png)
+
+> [購買link](https://item.jd.com/100017436006.html)
+
+# 4.粉刷工具
+
+我會自己做油漆，所以需要呢d工具
+
+![](../images/tools/4.png)
+
+> [購買link](https://item.jd.com/10027526171809.html)
+
+# 5.插排
+
+大陸，香港通用，有USB，有Type-C
+
+![](../images/tools/5-1.png)
+
+![](../images/tools/5-2.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.51e02e8dSaS7nj&id=619765307505&_u=n155thba3cc)
+
+# 6.开槽工具
+
+![](../images/tools/6.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=43807622982&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thbbe23)
+
+# 7.電鑽集塵盒
+
+![](../images/tools/7.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.51e02e8dSaS7nj&id=632530773989&_u=n155thb424f)
+
+# 8.安全繩
+
+露台做嘢，尤其安裝智能晾衣架需要
+
+![](../images/tools/8.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=612510293911&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thb08e4)
+
+# 9.木门开槽工具
+
+安裝智能鎖需要
+
+![](../images/tools/9.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=589695324162&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thb941e)
+
+# 10.梯
+
+![](../images/tools/10.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=661284758645&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thb0956)
+
+# 11.堵門眼裝飾
+
+安裝智能鎖需要，因為原本個鎖會有個窿
+
+![](../images/tools/11.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.51e02e8dSaS7nj&id=621546804819&_u=n155thb243f)
+
+# 12.明線隱藏裝飾
+
+有些一定要走明線嘅地方，需要
+
+![](../images/tools/12.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.51e02e8dSaS7nj&id=621546804819&_u=n155thb243f)
+
+# 13.石屎鑽
+
+電鑽同石屎鑽係兩樣嘢，工作原理都唔同，電鑽唔可以鑽泥水，石屎鑽有電鑽，電錘，電鎬
+
+![](../images/tools/13.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=566803916567&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thbb754)
+
+# 14.角磨機
+
+角磨機加轉換頭，可以變電鋸，萬用寶，修變機
+
+![](../images/tools/14.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=578696189489&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thb2f63)
+
+# 15.泥膠
+
+吊燈改位置，用來補返原本吊燈窿
+
+![](../images/tools/15.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=668733487123&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thb78e1)
+
+# 16.電鑽變電鋸
+
+![](../images/tools/16.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=655128077892&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thbad81)
+
+

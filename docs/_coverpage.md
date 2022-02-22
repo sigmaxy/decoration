@@ -1,13 +1,13 @@
 <!-- _coverpage.md -->
 
-![logo](images/logo.png)
+<!-- ![logo](images/logo.png) -->
 
-# First 4 Figures <small>xray</small>
+# Marini T3A 3XB <small>裝修日記</small>
 
-> 用xray帮助F4F团队无障碍翻墙
+> 我係Sigma，第一次裝修，希望比大家參考
 
-- 支持iphone，android
-- windows，mac
-- 境外境内来回翻
+- 收樓驗樓
+- 智能家居
+- 傢私材料
 
-[开始翻墙](#关于科学上网)
+[开始裝修](#自我介紹)

@@ -66,6 +66,10 @@ https://user-images.githubusercontent.com/4843869/155229544-827a972b-a135-42cd-a
 
 # 人體感應
 
+# 溫濕度感應器
+
+# 智能除濕機
+
 # 掃地機器人
 
 # 洗地機

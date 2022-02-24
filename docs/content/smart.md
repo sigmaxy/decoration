@@ -31,41 +31,46 @@
 <video src="https://user-images.githubusercontent.com/4843869/155229150-0dd4ace0-66a6-43ba-beb9-1bc4b2b5a3ed.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-（https://user-images.githubusercontent.com/4843869/155229150-0dd4ace0-66a6-43ba-beb9-1bc4b2b5a3ed.mp4）
-
 我呢款小米65吋，有兩款，60Hz，六千幾，120Hz先8千幾
 
 > [購買link](https://www.mi.com/buy/detail?product_id=14779)
 
 # 智能開關
 
+<video src="../images/smart/4-1.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 # 智能吊燈
 
-[视频](../images/smart/4-1.mp4)
+<video src="https://user-images.githubusercontent.com/4843869/155232499-6d63feb1-40f1-4774-87e7-de894cca950a.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
-https://user-images.githubusercontent.com/4843869/155232499-6d63feb1-40f1-4774-87e7-de894cca950a.mp4
-
-https://user-images.githubusercontent.com/4843869/155232538-a4248fa9-ca7b-4927-a6ac-8cfe2878485a.mp4
+<video src="https://user-images.githubusercontent.com/4843869/155232538-a4248fa9-ca7b-4927-a6ac-8cfe2878485a.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 > [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
 
 # 智能晾衣架
 
-https://user-images.githubusercontent.com/4843869/155229777-62e5476b-83c1-4541-82a1-d1447313f326.mp4
+<video src="https://user-images.githubusercontent.com/4843869/155229777-62e5476b-83c1-4541-82a1-d1447313f326.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
-https://user-images.githubusercontent.com/4843869/155229816-7a204033-2976-4cdf-8d75-8a8050327fea.mp4
+<video src="https://user-images.githubusercontent.com/4843869/155229816-7a204033-2976-4cdf-8d75-8a8050327fea.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 > [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
 
 # 智能窗簾
 
-https://user-images.githubusercontent.com/4843869/155230011-dad9f034-d75b-420c-a7ac-baef7904a463.mp4
+<video src="https://user-images.githubusercontent.com/4843869/155230011-dad9f034-d75b-420c-a7ac-baef7904a463.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 > [購買link](https://item.jd.com/100014743067.html)
 
 # 智能門窗感應
 
-https://user-images.githubusercontent.com/4843869/155229544-827a972b-a135-42cd-a0f4-214ac706d2ea.mp4
+<video src="https://user-images.githubusercontent.com/4843869/155229544-827a972b-a135-42cd-a0f4-214ac706d2ea.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 # 人體感應
 
@@ -93,5 +98,5 @@ https://user-images.githubusercontent.com/4843869/155229544-827a972b-a135-42cd-a
 | 下雨 | 水浸感应 | 降低晾衣架，关窗 |
 | 监控 | 本人不在家 | 开启监控|
 | 监控 | 陌生人在门口 | 开启监控|
-| 惊吓 | 女友出现门口 | 门锁摄像识别，手机通知|	
+| 报警 | 女友出现门口 | 门锁摄像识别，手机通知|	
 

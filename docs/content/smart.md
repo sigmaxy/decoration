@@ -37,7 +37,7 @@
 
 # 智能開關
 
-<video src="../images/smart/4-1.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://sigmaxy.github.io/decoration/images/smart/4-1.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 # 智能吊燈

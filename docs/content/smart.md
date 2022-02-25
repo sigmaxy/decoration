@@ -6,11 +6,11 @@
 
 我主要產品選咗小米，小米主要做大陸，美國，印度市場，香港市場只有唔到5%嘅小米產品，同埋功能會少，例如小米電視，智能鎖，電鑽，智能窗簾等我推薦個產品，只有大陸，美國，印度先有的賣，香港小米旗艦店無。並非所有小米產品都值得推薦，我當初選小米，因為我有選擇困難症，如果淘寶search一下，成千個產品，小米通常只有黑白兩個產品二選一，同埋佢性價比高。我當初買咗2站小米智能吸頂燈，而家後悔，因為小米智能吸頂燈，唔support凌動開關，我要重新49蚊買個智能凌動斷路器，先可以改裝到凌動智能效果，我遲d會係智能燈篇章，詳細講解。
 
-小米電器轉大陸server係米家APP》我》設計》地區》選擇中國大陸。
+小米電器轉大陸server係米家APP》我》設置》地區》選擇中國大陸。
 
 我會將安裝步驟，圖片放下面
 
-# 智能門鎖
+# 1 智能門鎖
 
 我見到街坊有團購智能門鎖，都需要3800到5千幾唔等，可以網上自己購買，我來幫街坊免費安裝，以小米智能鎖為例，我買呢款有攝像頭，有password，有NFC，攝像頭電池同門鎖電池分開，有人臉標識。原價2199，天貓年貨節1999.
 
@@ -32,7 +32,7 @@
 
 > [購買link](https://www.mi.com/buy/detail?product_id=14467&cfrom=search)
 
-# 智能電視
+# 2 智能電視
 
 電視差價最大，我呢款小米65吋OLED，8499，同樣以Samsung A65，豐澤2萬3，淘寶8千9，運費400幾。如果怕壞怕麻煩，建議豐澤，如果想慳錢，淘寶
 
@@ -43,12 +43,12 @@
 
 > [購買link](https://www.mi.com/buy/detail?product_id=14779)
 
-# 智能開關
+# 3 智能開關
 
 <video src="https://sigmaxy.github.io/decoration/images/smart/4-1.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-# 智能吊燈
+# 4 智能吊燈
 
 <video src="https://user-images.githubusercontent.com/4843869/155232499-6d63feb1-40f1-4774-87e7-de894cca950a.mp4" controls="controls" style="max-width: 730px;">
 </video>
@@ -58,7 +58,7 @@
 
 > [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
 
-# 智能晾衣架
+# 5 智能晾衣架
 
 <video src="https://user-images.githubusercontent.com/4843869/155229777-62e5476b-83c1-4541-82a1-d1447313f326.mp4" controls="controls" style="max-width: 730px;">
 </video>
@@ -68,29 +68,29 @@
 
 > [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
 
-# 智能窗簾
+# 6 智能窗簾
 
 <video src="https://user-images.githubusercontent.com/4843869/155230011-dad9f034-d75b-420c-a7ac-baef7904a463.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 > [購買link](https://item.jd.com/100014743067.html)
 
-# 智能門窗感應
+# 7 智能門窗感應
 
 <video src="https://user-images.githubusercontent.com/4843869/155229544-827a972b-a135-42cd-a0f4-214ac706d2ea.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-# 人體感應
+# 8 人體感應
 
-# 溫濕度感應器
+# 9 溫濕度感應器
 
-# 智能除濕機
+# 10 智能除濕機
 
-# 掃地機器人
+# 11 掃地機器人
 
-# 洗地機
+# 12 洗地機
 
-# 智能門禁
+# 13 智能門禁
 
 # 智能場景
 

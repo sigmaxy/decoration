@@ -42,4 +42,6 @@ cat8線
 
 ![](../images/isp/8.png)
 
-> [購買link](https://detail.tmall.com/item.htm?id=621706976732&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thb3f0b)
+> [cat8線購買link](https://detail.tmall.com/item.htm?id=621706976732&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thb3f0b)
+
+> [cat8暗盒購買link](https://detail.tmall.com/item.htm?id=659976750867&spm=a1z09.2.0.0.6f9b2e8dFOJfYZ&_u=s155thbca77)

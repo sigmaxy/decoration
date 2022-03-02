@@ -135,6 +135,10 @@
 
 ![](../images/smart/13-4.png)
 
+# 14 智能無線調色開關
+
+> [購買link](https://www.xiaomiyoupin.com/detail?gid=107044&pid=43141)
+
 # 智能場景
 
 | 场景 | 条件 | 执行 |

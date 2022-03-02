@@ -30,7 +30,20 @@
 
 ![](../images/smart/1-6.png)
 
-> [購買link](https://www.mi.com/buy/detail?product_id=14467&cfrom=search)
+呢個係扣片
+![](../images/smart/1-7-1.png)
+
+![](../images/smart/1-7-2.png)
+
+扣片設計
+![](../images/smart/1-7.png)
+
+呢個係導向片，由左至右依次係原裝導向片30200，小米默認送個導向片20240，自己淘宝購買導向片30240
+![](../images/smart/1-8.png)
+
+> [智能鎖購買link](https://www.mi.com/buy/detail?product_id=14467&cfrom=search)
+
+> [導向片、扣片購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.56432e8ddB7aT2&id=613821459277&_u=3155thb836c)
 
 # 2 智能電視
 
@@ -50,6 +63,13 @@
 
 # 4 智能吊燈
 
+餐廳位吊燈需要改位，補窿
+![](../images/smart/4-1.png)
+
+![](../images/smart/4-2.png)
+
+![](../images/smart/4-3.png)
+
 <video src="https://user-images.githubusercontent.com/4843869/155232499-6d63feb1-40f1-4774-87e7-de894cca950a.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
@@ -59,6 +79,18 @@
 > [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
 
 # 5 智能晾衣架
+
+小米晾衣架主機
+![](../images/smart/5-1.png)
+
+安全繩纏繞位置
+![](../images/smart/5-2.png)
+
+![](../images/smart/5-3.png)
+
+![](../images/smart/5-4.png)
+
+![](../images/smart/5-5.png)
 
 <video src="https://user-images.githubusercontent.com/4843869/155229777-62e5476b-83c1-4541-82a1-d1447313f326.mp4" controls="controls" style="max-width: 730px;">
 </video>
@@ -80,6 +112,8 @@
 <video src="https://user-images.githubusercontent.com/4843869/155229544-827a972b-a135-42cd-a0f4-214ac706d2ea.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
+> [購買link](https://www.mi.com/buy/detail?product_id=12665&cfrom=search)
+
 # 8 人體感應
 
 # 9 溫濕度感應器
@@ -91,6 +125,15 @@
 # 12 洗地機
 
 # 13 智能門禁
+
+原本PCB設計同電話
+![](../images/smart/13-1.png)
+
+![](../images/smart/13-2.png)
+
+![](../images/smart/13-3.png)
+
+![](../images/smart/13-4.png)
 
 # 智能場景
 

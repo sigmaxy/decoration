@@ -33,9 +33,10 @@
 呢個係扣片
 ![](../images/smart/1-7-1.png)
 
+由左至右依次係原裝扣片，小米鎖送嘅扣片，我自己design嘅扣片，定制扣片係35蚊
 ![](../images/smart/1-7-2.png)
 
-扣片設計
+扣片設計尺寸圖
 ![](../images/smart/1-7.png)
 
 呢個係導向片，由左至右依次係原裝導向片30200，小米默認送個導向片20240，自己淘宝購買導向片30240
@@ -144,6 +145,22 @@
 # 14 智能無線調色開關
 
 > [購買link](https://www.xiaomiyoupin.com/detail?gid=107044&pid=43141)
+
+# 15 智能冷氣
+
+> [三厢插头購買link](https://detail.tmall.com/item.htm?id=619372660505&spm=a1z09.2.0.0.787f2e8dBPAj5R&_u=h155thb10ee)
+
+> [米家空調伴侶2購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.787f2e8dBPAj5R&id=629762557704&_u=h155thb2b10)
+
+> [插座面板購買link](https://detail.tmall.com/item.htm?id=624093888974&spm=a1z09.2.0.0.787f2e8dBPAj5R&_u=h155thb9428)
+
+# 16 智能夢幻簾
+
+> [購買link](https://detail.tmall.com/item.htm?id=641941821196&spm=a1z09.2.0.0.787f2e8dBPAj5R&_u=h155thb883d)
+
+# 17 智能燈帶
+
+> [購買link](https://detail.tmall.com/item.htm?id=632540864278&spm=a1z09.2.0.0.787f2e8dBPAj5R&_u=h155thb9c1b&sku_properties=13381687:10122;122276201:10122)
 
 # 智能場景
 

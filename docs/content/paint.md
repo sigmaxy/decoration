@@ -22,7 +22,7 @@
 
 ![](../images/paint/3.png)
 
-先油底漆
+我全屋都油白色，只有電視墻灰色，先油底漆
 
 ![](../images/paint/4.png)
 

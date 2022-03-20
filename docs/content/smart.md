@@ -156,6 +156,10 @@
 
 # 16 智能夢幻簾
 
+智能夢幻簾由路軌，夢幻簾，窗簾盒，智能燈帶組成，路軌同夢幻簾係下面，燈帶我啱啱收到貨就後悔啦，因為3月頭小米出咗小米智能燈帶，感覺更加平，更加好。窗簾盒係我用傢私剩返的板材自己起個出來，用L金屬固定天花，因為唔夠長，用木工3合一接駁多一款短板，遲滴做下油漆就睇唔出啦。
+
+<video src="https://sigmaxy.github.io/decoration/images/smart/16-1.mp4" controls="controls"></video>
+
 > [購買link](https://detail.tmall.com/item.htm?id=641941821196&spm=a1z09.2.0.0.787f2e8dBPAj5R&_u=h155thb883d)
 
 # 17 智能燈帶

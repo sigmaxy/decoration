@@ -111,8 +111,11 @@
 
 # 6 智能窗簾
 
-<video src="https://user-images.githubusercontent.com/4843869/155230011-dad9f034-d75b-420c-a7ac-baef7904a463.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<video src="https://sigmaxy.github.io/decoration/images/smart/6-1.mp4" controls="controls"></video>
+
+![](../images/smart/6-3.png)
+
+<video src="https://sigmaxy.github.io/decoration/images/smart/6-2.mp4" controls="controls"></video>
 
 > [購買link](https://item.jd.com/100014743067.html)
 

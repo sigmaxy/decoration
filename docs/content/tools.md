@@ -118,10 +118,46 @@
 
 > [購買link](https://detail.tmall.com/item.htm?id=668733487123&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thb78e1)
 
-# 16.電鑽變電鋸
+# 16.電動曲線鋸
 
 ![](../images/tools/16.png)
 
-> [購買link](https://detail.tmall.com/item.htm?id=655128077892&spm=a1z09.2.0.0.51e02e8dSaS7nj&_u=n155thbad81)
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.343f2e8dsiJxn9&id=621474499694&_u=m155thbf291)
+
+# 17.快速接線端子
+
+![](../images/tools/17.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.343f2e8dsiJxn9&id=627663960992&_u=m155thb8443)
+
+# 18.熱風槍
+
+![](../images/tools/18.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=648526274909&spm=a1z09.2.0.0.343f2e8dsiJxn9&_u=m155thb880c)
+
+# 19.木工夹
+
+![](../images/tools/19.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=584600814292&spm=a1z09.2.0.0.343f2e8dsiJxn9&_u=m155thbdadb)
+
+# 20.木工三合一
+
+![](../images/tools/20.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.343f2e8dsiJxn9&id=41710695070&_u=m155thb7049)
+
+# 21.傢私修補膏
+
+![](../images/tools/21.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=670407087464&spm=a1z09.2.0.0.343f2e8dkC4MnM&_u=m155thb9756)
+
+# 22.普通電器改智能控制器
+
+![](../images/tools/22.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.343f2e8dsiJxn9&id=610210019661&_u=m155thb8f3c)
 
 

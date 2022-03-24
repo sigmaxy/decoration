@@ -26,7 +26,7 @@ AutoCAD係確定最終尺寸之後，用來比工廠製作
 
 ![](../images/design/3-4.png)
 
-# 3 AutoCAD圖
+# 4 AutoCAD圖
 
 呢d圖通常設計公司唔會比你，因為比咗你，就可以直接係工廠訂貨，設計公司收唔到錢啦
 
@@ -35,4 +35,16 @@ AutoCAD係確定最終尺寸之後，用來比工廠製作
 ![](../images/design/4-2.png)
 
 ![](../images/design/4-3.png)
+
+# 5 成品圖
+
+![](../images/design/5-1.png)
+
+![](../images/design/5-2.png)
+
+![](../images/design/5-3.png)
+
+![](../images/design/5-4.png)
+
+![](../images/design/5-5.png)
 

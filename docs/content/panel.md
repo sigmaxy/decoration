@@ -26,6 +26,10 @@
 
 改動插蘇，傢私背板開槽，第一種做法
 
+![](../images/panel/4.png)
+
+第二種做法
+
 <video src="https://sigmaxy.github.io/decoration/images/panel/3.mp4" controls="controls"></video>
 
 

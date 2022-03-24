@@ -26,12 +26,18 @@
 
 ![](../images/paint/4.png)
 
-面漆
+第一遍面漆
 
 ![](../images/paint/5.png)
 
-最終效果
+第二遍面漆
 
 ![](../images/paint/6.png)
+
+最終效果
+
+![](../images/paint/7.png)
+
+![](../images/paint/8.png)
 
 

@@ -53,14 +53,6 @@
 電視差價最大，我呢款小米65吋OLED，8499，同樣以Samsung A65，豐澤2萬3，淘寶8千9，運費400幾。如果怕壞怕麻煩，建議豐澤，如果想慳錢，淘寶
 
 <video src="https://sigmaxy.github.io/decoration/images/smart/2-1.mp4" controls="controls"></video>
-<style>
-    video {
-        /*height: 100vh;*/
-        width: 100%;
-        object-fit: cover; // use "cover" to avoid distortion
-        /*position: absolute;*/
-    }
-</style>
 
 我呢款小米65吋，有兩款，60Hz，六千幾，120Hz先8千幾
 

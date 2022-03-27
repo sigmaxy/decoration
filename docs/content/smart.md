@@ -60,6 +60,22 @@
 
 # 3 智能開關
 
+我買做4種只能開關，屏顯智能開關，可以顯示溫度濕度，控制冷氣抽濕機，單開雙開智能開關，無極調光智能開關，無線開關。全部單火版，因為我哋燈位開關冇零線，只可以買單火版，單火版唔可以用來控制大功率電器，零火版先可以，例如我的冷氣，浴室寶，煤氣等開關，都有零線，可以使用零火版.
+
+![](../images/smart/3-1.png)
+
+![](../images/smart/3-2.png)
+
+![](../images/smart/3-3.png)
+
+> [屏顯開關購買link](https://www.mi.com/buy/detail?product_id=13443&cfrom=search)
+
+> [單雙開關購買link](https://www.mi.com/buy/detail?product_id=12950&cfrom=search)
+
+> [無極調光購買link](https://www.mi.com/buy/detail?product_id=13244&cfrom=search)
+
+> [無線開關購買link](https://www.mi.com/buy/detail?product_id=5006&cfrom=search)
+
 <video src="https://sigmaxy.github.io/decoration/images/smart/4-1.mp4" controls="controls"></video>
 
 # 4 智能吊燈

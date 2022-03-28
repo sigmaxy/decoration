@@ -138,9 +138,29 @@
 
 # 8 人體感應
 
-# 9 溫濕度感應器
+有人係度自動開燈，2-5分鐘冇人，自動熄燈
+
+![](../images/smart/8-1.png)
+
+> [購買link](https://www.mi.com/buy/detail?product_id=13175&cfrom=search)
+
+# 9 溫濕度計
+
+![](../images/smart/9.png)
+
+> [購買link](https://www.mi.com/buy/detail?product_id=14957&cfrom=search)
 
 # 10 智能除濕機
+
+我間房面海，濕度好大，正常75-85%，人體舒服嘅範圍係40-60，我設定濕度為50%，除濕機開4-6個鐘後會達到人體舒服範圍，之後用智能場景中溫濕度感應器來控制除濕機
+
+![](../images/smart/10-1.png)
+
+![](../images/smart/10-2.png)
+
+![](../images/smart/10-3.png)
+
+> [購買link](https://www.mi.com/buy/detail?product_id=15196&cfrom=search)
 
 # 11 掃地機器人
 

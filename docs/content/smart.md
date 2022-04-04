@@ -186,6 +186,38 @@
 
 # 15 智能冷氣
 
+普通冷氣機變智能。成本係11+63+26=100蚊。有三個好處
+
+1 可以手機控制，返到屋企前半個鐘先開冷氣，離開屋企可以自動熄機
+2 可以睇到每日用電量，每個月冷氣用幾多度電
+3 睡覺模式比較中意，如果開始睡覺頭4個鐘可以set22度，後4個鐘可以set25度，復合人體夜間體溫感受
+
+首先準備呢3樣嘢工具，購買link係下面，一定要買大陸版插頭，主要因為呢個小米空調伴侶只有大陸版插頭，其實呢個小米空調伴侶就係一個繼電器加遙控器
+
+![](../images/smart/15-1.png)
+
+係面板度打個窿
+
+![](../images/smart/15-2.png)
+
+穿條線過去
+
+![](../images/smart/15-3.png)
+
+拆咗原本個面板
+
+![](../images/smart/15-4.png)
+
+見到6條線，3條1set零火地空調先，另一set零火地係power source。面板接駁power source零火地，插頭接駁空調零火地
+
+![](../images/smart/15-5.png)
+
+裝完就係呢樣，可以手機控制啦
+
+![](../images/smart/15-6.png)
+
+![](../images/smart/15-7.png)
+
 > [三厢插头購買link](https://detail.tmall.com/item.htm?id=619372660505&spm=a1z09.2.0.0.787f2e8dBPAj5R&_u=h155thb10ee)
 
 > [米家空調伴侶2購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.787f2e8dBPAj5R&id=629762557704&_u=h155thb2b10)

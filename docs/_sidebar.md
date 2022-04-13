@@ -10,4 +10,5 @@
 * [智能家電](content/smart.md)
 * [油漆](content/paint.md)
 * [插蘇明暗線](content/panel.md)
+* [好物推薦](content/taobao.md)
 * [视频](content/video.md)

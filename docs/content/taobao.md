@@ -15,4 +15,15 @@
 
 ![](../images/taobao/1-3.png)
 
+# 2 縫紉機
+
+可以直接買布，買絲綢，自己車窗簾，抱枕
+
+![](../images/taobao/2-1.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7ac82e8dr4nNPb&id=553108724121&_u=i155thb1219)
+
+
+
+
 

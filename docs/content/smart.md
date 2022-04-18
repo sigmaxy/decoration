@@ -240,6 +240,13 @@
 
 > [購買link](https://detail.tmall.com/item.htm?id=632540864278&spm=a1z09.2.0.0.787f2e8dBPAj5R&_u=h155thb9c1b&sku_properties=13381687:10122;122276201:10122)
 
+# 18 智能燒水爐
+
+可以保溫，可以定時
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7ac82e8dr4nNPb&id=643739864890&_u=i155thb2de8)
+
+
 # 智能場景
 
 | 场景 | 条件 | 执行 |

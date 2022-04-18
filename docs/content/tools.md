@@ -159,3 +159,45 @@
 ![](../images/tools/22.png)
 
 > [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.343f2e8dsiJxn9&id=610210019661&_u=m155thb8f3c)
+
+# 23.木工尺
+
+![](../images/tools/23.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=598631011830&spm=a1z09.2.0.0.7ac82e8dr4nNPb&_u=i155thb7361)
+
+# 24.櫃門隨意停
+
+![](../images/tools/24.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7ac82e8dr4nNPb&id=590306798216&_u=i155thba75e)
+
+# 25.亞加力棒
+
+![](../images/tools/25.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7ac82e8dr4nNPb&id=586791555832&_u=i155thbe87a)
+
+# 26.法蘭座
+
+![](../images/tools/26.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7ac82e8dr4nNPb&id=622544488459&_u=i155thbf1b5)
+
+# 27.電圓鋸
+
+![](../images/tools/27.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7ac82e8dr4nNPb&id=656719155113&_u=i155thbf879)
+
+# 28.萬用表
+
+![](../images/tools/28.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=607571974746&spm=a1z09.2.0.0.7ac82e8dr4nNPb&_u=i155thb5f06&skuId=4432039406651)
+
+# 29.電烙鐵
+
+![](../images/tools/29.png)
+
+> [購買link](https://detail.tmall.com/item.htm?id=607571974746&spm=a1z09.2.0.0.7ac82e8dr4nNPb&_u=i155thb5f06&skuId=4432039406651)

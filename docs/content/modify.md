@@ -90,10 +90,6 @@
 
 ![](../images/modify/5-5.png)
 
-組裝層板
-
-![](../images/modify/5-5.png)
-
 裝好櫃門，護欄，隨意停等五金，拖板接駁電源，廚房有個碗架啦
 
 ![](../images/modify/5-6.png)

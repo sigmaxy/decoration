@@ -115,3 +115,31 @@
 ![](../images/modify/6-5.png)
 
 ![](../images/modify/6-6.png)
+
+# 7 電動升降枱
+
+分享一個改裝智能家電，我買咗個電動升降書桌，但查返市場上所有電動升降台或者榻榻米，冇一間有智能功能，都係呢種物理按鍵，冇得接駁米家或者homekit，冇辦法自己改造。
+
+![](../images/modify/7-1.png)
+
+準備工具
+
+![](../images/modify/7-2.png)
+
+購買一個65智能繼電器，有米家有蘋果HomeKit
+
+![](../images/modify/7-3.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.3d0c2e8d0tbAm8&id=629916152179&_u=a155thb37d0)
+
+拆開控制面板，一個變壓器，兩個PCB板，其中一個控制板，一個顯示功能板
+
+![](../images/modify/7-4.png)
+
+接駁變壓器電源，同兩路控制按鍵
+
+![](../images/modify/7-5.png)
+
+我嘅電動升降台變智能啦，已經可以設定場景，聯動音箱，手機，或者久坐提醒
+
+<video src="https://sigmaxy.github.io/decoration/images/modify/7-6.mp4" controls="controls"></video>

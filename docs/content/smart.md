@@ -120,7 +120,7 @@
 <video src="https://user-images.githubusercontent.com/4843869/155229816-7a204033-2976-4cdf-8d75-8a8050327fea.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-> [購買link](https://www.mi.com/buy/detail?product_id=11041&cfrom=search)
+> [購買link](https://item.jd.com/100013335216.html)
 
 # 6 智能窗簾
 

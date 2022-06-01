@@ -10,6 +10,7 @@
 * [智能家電](content/smart.md)
 * [油漆](content/paint.md)
 * [改裝](content/modify.md)
+* [師傅](content/worker.md)
 * [蚊網防貓網](content/mosquito.md)
 * [好物推薦](content/taobao.md)
 * [视频](content/video.md)

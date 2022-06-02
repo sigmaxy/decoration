@@ -120,6 +120,8 @@
 <video src="https://user-images.githubusercontent.com/4843869/155229816-7a204033-2976-4cdf-8d75-8a8050327fea.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
+天驕包安裝係2800，如果自己淘寶係749+安裝費，通常安裝費係800-1000，想自己安裝我可以幫手。天驕安裝師傅有時偷懶唔接駁地線，記得要求師傅接駁地線。佢哋師傅有時唔會幫你下載APP接駁wifi。可以自己來。1下載米家APP，2註冊登錄賬號，3右下角我的-》設置-》地區選擇中國大陸。4晾衫架斷電再通電，5米家APP右上角加號，添加設備。6見到米家智能晾衣機，輸入2.4Gwifi用戶名密碼，一定要2.4wifi，5Gwifi唔得。
+
 > [購買link](https://item.jd.com/100013335216.html)
 
 # 6 智能窗簾
@@ -129,8 +131,6 @@
 ![](../images/smart/6-3.png)
 
 <video src="https://sigmaxy.github.io/decoration/images/smart/6-2.mp4" controls="controls"></video>
-
-天驕包安裝係2800，如果自己淘寶係749+安裝費，通常安裝費係800-1000，想自己安裝我可以幫手。天驕安裝師傅有時偷懶唔接駁地線，記得要求師傅接駁地線。佢哋師傅有時唔會幫你下載APP接駁wifi。可以自己來。1下載米家APP，2註冊登錄賬號，3右下角我的-》設置-》地區選擇中國大陸。4晾衫架斷電再通電，5米家APP右上角加號，添加設備。6見到米家智能晾衣機，輸入2.4Gwifi用戶名密碼，一定要2.4wifi，5Gwifi唔得。
 
 > [購買link](https://item.jd.com/100014743067.html)
 

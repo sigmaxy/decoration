@@ -36,7 +36,7 @@ PET材料，一扇窗客廳，睡房或者廚房都係598，露台門係2198，�
 
 ![](../images/mosquito/4.png)
 
-安裝完成，唔介意左邊虛位，有條縫隙，係因為我剪開包裝時，將果條密封膠條一齊剪爛，等賣家重新郵寄一條比我。
+安裝完成，冇介意左邊虛位，有條縫隙，係因為我剪開包裝時，將果條密封膠條一齊剪爛，等賣家重新郵寄一條比我。
 
 <video src="https://sigmaxy.github.io/decoration/images/mosquito/4-1.mp4" controls="controls"></video>
 

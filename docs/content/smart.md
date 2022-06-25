@@ -187,6 +187,9 @@
 
 ![](../images/smart/12-4.png)
 
+安裝之後效果
+ 
+![](../images/smart/12-5.png)
 
 # 13 智能門禁
 

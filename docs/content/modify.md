@@ -167,5 +167,18 @@
 
 ![](../images/modify/8-5.png)
 
+# 9 門吸
+
+我有用過兩款門吸，一款磁石，一款機械結構。我感覺會推薦呢個機械結構，因為磁石款係廚房如果雙手有拎碗碟，用隻腳關門唔方便。用機械結構只要蹬一下門，就自動關門了。
+
+![](../images/modify/9-1.mp4)
+
+> [機械購買link](https://detail.tmall.com/item.htm?id=640818848044&sku_properties=122276380:20213)
+
+> [磁石購買link](https://detail.tmall.com/item.htm?spm=a230r.1.14.35.c57bae27JLHNu1&id=658601836473&ns=1&abbucket=3)
+
+> [塑膠購買link](https://detail.tmall.com/item.htm?id=669295169906&sku_properties=122276380:20213)
+
+
 
 

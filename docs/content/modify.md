@@ -179,6 +179,16 @@
 
 > [塑膠購買link](https://detail.tmall.com/item.htm?id=669295169906&sku_properties=122276380:20213)
 
+# 10 隔音條
+
+打風時候，因為樓道通風問題，我哋個大門會發出vv聲，其實只不過係我哋個門吹緊口哨。只要阻風透入就可以解決呢個問題。購買時候會見到有9*4，9*6，9*8多仲規格，第一個係寬9mm，第二個digit係厚度6mm。要根據自己門縫size來選擇，如果size選細，可能仲有聲，如果選大咗，關門收影響。我呢個單位門框4邊，上左右選擇9*6啱啱好，下選擇9*8.唔同單位門縫唔同，如果唔識度尺，可以都買一個，反正好平。
+
+![](../images/modify/10-1.png)
+
+<video src="https://sigmaxy.github.io/decoration/images/modify/10-2.mp4" controls="controls"></video>
+
+> [購買link](https://detail.tmall.com/item.htm?id=634607551467)
+
 
 
 

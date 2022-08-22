@@ -173,6 +173,10 @@
 
 # 11 掃地機器人
 
+![](../images/smart/11-1.png)
+
+> [購買link](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.23d12e8dbD4xtA&id=673642424723&_u=n155thbcf16)
+
 # 12 洗碗機
 
 我選擇小米8套智能洗碗機
